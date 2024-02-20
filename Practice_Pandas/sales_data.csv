@@ -1,0 +1,6 @@
+Date,ProductID,ProductName,Quantity,Price,CustomerID,Age,Gender
+2024-01-01,1001,ProductA,2,50,101,25,Female
+2024-01-05,1002,ProductB,1,30,102,30,Male
+2024-01-10,1003,ProductC,3,20,103,35,Male
+2024-01-15,1001,ProductA,1,50,104,40,Female
+2024-01-20,1004,ProductD,2,40,105,45,Female
